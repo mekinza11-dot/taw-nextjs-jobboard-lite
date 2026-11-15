@@ -10,8 +10,7 @@ export async function POST(request: Request) {
     const apiKey = process.env.RESEND_API_KEY;
     const supabaseUrl = process.env.NEXT_PUBLIC_SUPABASE_URL;
     const serviceKey = process.env.SUPABASE_SERVICE_ROLE_KEY;
-    const appUrl = process.env.NEXT_PUBLIC_APP_URL || "http://localhost:3000";
-
+const appUrl = process.env.NEXT_PUBLIC_APP_URL || "https://taw-nextjs-jobboard-lite.vercel.app";
     if (!apiKey || !supabaseUrl || !serviceKey) {
       return NextResponse.json(
         { error: "Email service is not configured." },
