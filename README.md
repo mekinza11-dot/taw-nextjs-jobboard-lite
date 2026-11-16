@@ -6,6 +6,11 @@ Live Demo: https://taw-nextjs-jobboard-lite.vercel.app/
 
 GitHub Repository: https://github.com/mekinza11-dot/taw-nextjs-jobboard-lite
 
+## 🎥 Project Demo
+
+Watch the JobBoard Lite demo: [View Loom Demo](https://www.loom.com/share/3f10a5956a904eae94342c3650d709e9)
+
+
 ## Project Overview
 
 JobBoard Lite is a web-based job board application that allows employers to post and manage job listings while candidates can browse, search, and filter available opportunities.
