@@ -1,0 +1,59 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="T4Jo8EZZZ0UiqKfnH-MH">
+    <mxGraphModel dx="840" dy="473" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="me8aw9EwsqlfxBbtEIde-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#00FF00;" value="&lt;p&gt;&lt;code&gt;JobBoard Lite&lt;/code&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="330" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="me8aw9EwsqlfxBbtEIde-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#00FF00;" value="&lt;p&gt;&lt;code&gt;Frontend – Next.js 14 + TypeScript + Tailwind CSS&lt;/code&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="60" width="350" x="310" y="155" as="geometry" />
+        </mxCell>
+        <mxCell id="me8aw9EwsqlfxBbtEIde-11" edge="1" parent="1" source="me8aw9EwsqlfxBbtEIde-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="me8aw9EwsqlfxBbtEIde-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="me8aw9EwsqlfxBbtEIde-14" edge="1" parent="1" source="me8aw9EwsqlfxBbtEIde-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="me8aw9EwsqlfxBbtEIde-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="me8aw9EwsqlfxBbtEIde-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#00FF00;" value="&lt;p&gt;&lt;code&gt;Backend – Next.js API Routes&lt;/code&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="60" width="220" x="330" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="me8aw9EwsqlfxBbtEIde-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#00FF00;" value="&lt;p&gt;&lt;code&gt;Database – Supabase (PostgreSQL)&lt;/code&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="60" width="230" x="340" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="me8aw9EwsqlfxBbtEIde-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#00FF00;" value="&lt;p&gt;&lt;code&gt;Authentication – Supabase Auth&lt;/code&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="60" width="210" x="580" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="me8aw9EwsqlfxBbtEIde-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#00FF00;" value="&#xa;&lt;p&gt;&lt;code&gt;&lt;span&gt;Email Notifications – Resend&lt;/span&gt;&lt;/code&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&#xa;&#xa;" vertex="1">
+          <mxGeometry height="60" width="210" x="10" y="155" as="geometry" />
+        </mxCell>
+        <mxCell id="me8aw9EwsqlfxBbtEIde-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#00FF00;" value="&lt;p&gt;&lt;code&gt;Payments – Demo Mode (Featured Jobs)&lt;/code&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="60" width="250" x="20" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="me8aw9EwsqlfxBbtEIde-8" edge="1" parent="1" source="me8aw9EwsqlfxBbtEIde-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.386;entryY=0.083;entryDx=0;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=page;labelPadding=0 4;endArrow=open;endFill=0;" target="me8aw9EwsqlfxBbtEIde-2">
+          <mxGeometry relative="1" x="-0.0562" as="geometry">
+            <Array as="points">
+              <mxPoint x="390" y="130" />
+              <mxPoint x="395.1" y="130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="me8aw9EwsqlfxBbtEIde-9" edge="1" parent="1" source="me8aw9EwsqlfxBbtEIde-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.559;entryY=-0.033;entryDx=0;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="me8aw9EwsqlfxBbtEIde-3">
+          <mxGeometry relative="1" x="0.2768" as="geometry">
+            <Array as="points">
+              <mxPoint x="450" y="288" />
+              <mxPoint x="453" y="288" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="me8aw9EwsqlfxBbtEIde-10" edge="1" parent="1" source="me8aw9EwsqlfxBbtEIde-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.439;entryY=0.05;entryDx=0;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="me8aw9EwsqlfxBbtEIde-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="me8aw9EwsqlfxBbtEIde-15" edge="1" parent="1" source="me8aw9EwsqlfxBbtEIde-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.004;entryY=0.65;entryDx=0;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="me8aw9EwsqlfxBbtEIde-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
